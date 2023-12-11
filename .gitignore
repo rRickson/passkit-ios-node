@@ -1,0 +1,7 @@
+*.pkpass
+*.p12
+*.pem
+*.sqlite3
+node_modules
+/cert/*
+Tickets.pass/pass.json
